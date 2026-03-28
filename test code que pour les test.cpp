@@ -7,3 +7,4 @@ int main (){
     std::cout<<"la valeur de a "<<a<<"\n";
     return 0 ; 
 }
+ù
